@@ -1,6 +1,7 @@
 public class FirstFile{
 
 public static void main (String[] args){
-System.out.println("Hello");
+    int y = 6;
+System.out.println("Hello"+y);
 }
 }
